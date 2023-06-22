@@ -1,20 +1,124 @@
 [
     {
       "id": 1,
-      "name": "Device 1",
-      "description": "This is Device 1",
-      "image": "device1.jpg"
+      "name": "HF550X RFID",
+      "description": "The existing HF550 adds barcode scanners and an interface for connecting to external devices and support user authentication for enhance security with fingerprinting capabilities",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20230621/y8zPme56usiaZokV_20230621.png",
+      "specifications": {
+        "Dimensions": "154.4 x 74.8 x 11.65 mm",
+        "Weight": "205g",
+        "Display": "5.45\" HD+ (1440 X 720), TFT-IPS",
+        "OS": "Android 10; Upgradeable to Android 14",
+        "CPU": "Qualcomm SD660 2.0 GHz Octa Core",
+        "Memory": "4 GB RAM / 32 GB UFS",
+        "Data Capture": "1D/2D imager which can tag 300 tags per second\nReading range - Up to 50cm",
+        "Camera": "Rear - 13MP with flash, Auto Focus",
+        "Battery": "User replaceable battery\n3.8V / 4000 mAh"
+      }
     },
     {
       "id": 2,
-      "name": "Device 2",
-      "description": "This is Device 2",
-      "image": "device2.jpg"
+      "name": "S70",
+      "description": "S70, the next generation Ultra-rugged for Enterprise Mobility based on 5G",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20230621/7spQgf5SVDY9thTx_20230621.png",
+      "specifications": {
+        "CPU": "Qualcomm Snapdragon™ QC6490 octa-core, 2.7GHz",
+        "OS": "Android 12; Upgradeable to Android 16",
+        "Memory": "4GB RAM/ 64GB UFS Flash\n8GB RAM/ 128GB UFS Flash (Optional)",
+        "Dimensions": "174 x 86.3 x 26 mm",
+        "Weight": "340 g",
+        "Display": "6” FHD+ (1080x2160)",
+        "Communication": "5G, Wi-Fi 6E",
+        "Drop Spec": "Multiple 10 ft./3.05 m drops to concrete at room temperature per MIL-STD 810H\nMultiple 8 ft./2.4 m drops to concrete over operating temp -20°C to 50°C per MIL-STD 810H",
+        "Tumble Spec": "2000 3.3 ft./1.0 m tumbles, meets or exceeds IEC tumble specification"
+      }
     },
     {
       "id": 3,
-      "name": "Device 3",
-      "description": "This is Device 3",
-      "image": "device3.jpg"
+      "name": "EF551",
+      "description": "EF551, the next generation full-rugged enterprise 5G mobile computer",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20220707/AIVM6qNaTFGh1b7D_20220707.png",
+      "specifications": {
+        "CPU": "2.7 GHz Octa Core Processor (QC6490)",
+        "OS": "Android 12; Upgradeable to Android 16",
+        "Memory": "4GB RAM/ 64GB UFS Flash\n8GB RAM/ 128GB UFS Flash (Optional)",
+        "Dimensions": "159.9 x 79 x 16.65 mm\n164.91 x 85.79 x 23.06 mm (Rugged SKU 1)\n166.35 x 83.5 x 22.8 mm (Rugged SKU 2)",
+        "Weight": "284.5 g\n332 g (Rugged SKU)",
+        "Display": "5.45” FHD+ (2160x1080)",
+        "Communication": "5G, Wi-Fi 6E",
+        "Drop Spec": "Multiple 5 ft./1.5 m drop to concrete over -10° C to 50°C (14° F to 122° F) per MIL-STD 810H (Ultra Rugged SKU)\nMultiple 8 ft./2.4 m drop to concrete at room temperature per MIL-STD 810H\nMultiple 6 ft./1.8 m drop to concrete across full operating temperature range, EN 62262 (IKO6)",
+        "Tumble Spec": "1000 1.6 ft./0.5 m tumbles, meets or exceeds IEC tumble specification\n2000 3.2 ft./1.0 m tumbles; (Rugged SKU), meets or exceeds IEC tumble specifications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "ST103 Kiosk",
+      "description": "The Right Customer Service Solution for Your Business",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20221101/dRSHEx7PWKrJLTIO_20221101.png",
+      "specifications": {
+        "Dimensions": "254.2 x 172.4 x 30.2 mm",
+        "Weight": "630g",
+        "Display": "10.1 inch 1920 x 1200 (WUXGA)",
+        "OS": "Android 10 (Upgradeable to Android 11)",
+        "CPU": "Qualcomm Snapdragon 1.8 GHz Octa Core Processor",
+        "Memory": "3GB RAM, 32GB Flash\n4GB RAM, 64GB Flash",
+        "Communication": "802.11 a/b/g/n/ac/d/h/r/k/w/i\nBluetooth v5.0 BLE\nGigabit Ethernet on RJ45 interface",
+        "Data Capture": "Integrated 1D&2D imager\n5MP Fixed Focus Front Camera\nUHF & HF RFID (Optional)",
+        "Power": "Enterprise grade power supply: 9VDC/3A; 110/220V\nSupport for integrated 802.3at Power-over-Ethernet (PoE) (Optional)\nIntegrated Battery (Optional)"
+      }
+    },
+    {
+      "id": 5,
+      "name": "RT104",
+      "description": "10'' tablet optimized for business in every aspect with ruggedness",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20210128/iWufTzJAc2nsQ84R_20210128.png",
+      "specifications": {
+        "Dimensions": "262.0 x 178.2 x 14.65 mm",
+        "Weight": "810g",
+        "Display": "10.1 inch, HD",
+        "OS": "Windows 10 IoT Enterprise (64bit, RS5 LTSC)",
+        "CPU": "Intel® Celeron® Processor Quad Core 2.40 GHz",
+        "Memory": "4GB LPDDR4 RAM; 64GB eMMC Flash;\n8GB LPDDR4 RAM; 128GB eMMC Flash (Optional)",
+        "Communication": "LTE (Optional),\n802.11 a/b/g/n/ac/r/k/v;\nBluetooth v5.0, BLE, Class 1",
+        "Data Capture": "1D&2D Imager (w/ Smart Plug)\nCarmera:\n- Rear: 8MP AutoFocus with flash\n- Front: 5MP Fixed Focus\n\nNFC (Optional):\n- ISO 14443 Type A & B, ISO 15693, MiFare, Felica",
+        "Battery": "User replaceable Battery\n8.32V / 3000mAh",
+        "Drop Spec": "1.2m / 4 ft. to drop per MIL STD 810G\n1.5m / 5 ft. to drop per MIL STD 810G (w/ the Rugged Plug)",
+        "Tumble Spec": "100 3.2 ft./0.5 m tumbles; meets and exceeds IEC tumble specification"
+      }
+    },
+    {
+      "id": 6,
+      "name": "SP500",
+      "description": "Seamless Payment with Rich Interactivity",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20200113/ZcbuYGAJsQUe1Fi5_20200113.png",
+      "specifications": {
+        "Dimensions": "179.5 x 82.7 x 63.9mm",
+        "Weight": "450 g",
+        "Display": "5.0’’ 1280 x 720 pixels",
+        "OS": "Android 8.x",
+        "CPU": "Qualcomm Snapdragon™ 210 quad-core, 1.1 GHz and Security Processor",
+        "Memory": "2/16GB",
+        "Communication": "WPAN: Bluetooth 4.1 BLE, Class 1\nWLAN: 802.11 b/g/n, 802.11 a/b/g/n (Optional)\nWWAN:\n(Optional-Available)\n[EMEA/Korea]\n- LTE FDD: B1/B3/B5/B7/B8/B20\n- LTE TDD: B38/B40/B41\n- WCDMA: B1/B5/B8\n- GSM: 850/900/1800/1900MHz\n[China/India]\n- LTE FDD: B1/B3/B8\n- LTE TDD: B38/B39/B40/B41\n- TDSCDMA: B34/B39\n- EVDO/CDMA: BC0\n- WCDMA: B1/B8\n- GSM: 900/1800MHz\n[Japan]\n- LTE FDD: B1/B3/B8/B18/B19/B26\n- LTE TDD: B41\n- WCDMA: B1/B6/B19\n[North America]\n- LTE FDD: B2/B4/B5/B7/B12/B13/B25/B26\n- WCDMA: B1/B2/B4/B5/B8\n- GSM: 850/1900MHz\n[South America]\n- LTE FDD: B1/B3/B5/B7/B8/B28\n- LTE TDD: B40\n- WCDMA: B1/B2/B5/B8\n- GSM: 850/900/1800/1900MHz\nGPS:\n(Optional - Only WWAN)\n- Built-in GPS\n- support A-GPS, GLONASS, BEIDOU",
+        "Data Capture": "Scanning:\n5 Mp Auto Zoom Rear Camera\n-1D&2D Barcodes\n\nCamera(Operational):\n5MP with flash, auto focus rear camera\n\nNFC: Support",
+        "Payment": "MSR: Track 1/2/3, Bi-Directional\nContact: ISO 7816, EMV LEVEL 1 & 2\nContactless:\n13.56MHz, ISO 14443, Type A&B, Felica, Mifare, EMV LEVEL 1&2 compliant",
+        "Security": "PCI PTS 5.x PED",
+        "Battery": "7.26V 2600mAh (18.87Wh)"
+      }
+    },
+    {
+      "id": 7,
+      "name": "RFR900 for HF550X",
+      "description": "RFR900 adds UHF RFID reading capability to touch mobile computer, VF550, is designed as an ergonomic pistol grip handle.",
+      "image": "https://www.bluebirdcorp.com/uploads/product/20220824/Y9V7gjpSiDeA3zwf_20220824.png",
+      "specifications": {
+        "Dimensions": "146.2 x 70 x 148.7 mm",
+        "Weight": "333g",
+        "Power": "User replaceable Battery\nStandard: 3.64V, 3050mAh\nExtended: 3.64V, 4,000 mAh",
+        "RFID Performance": "Fastest Read Rate: 900+ tags/sec\nRead Range: 20+ ft. / 6+ m.",
+        "RFID/Bluetooth": "US: 902-928 MHz, EU: 865-868 MHz, JP1: 916-921 MHz, JP2: 916~923 MHz,\nCN: 920.5~924.5 MHz, Russian Federation: 866~868 MHz\n\nBluetooth V2.1+EDR, Class 2",
+        "Compatible Bluebird Host Devices": "HF550X",
+        "Drop Spec": "1.2m/4ft. drop per MIL-STD 810G",
+        "Tumble Spec": "1000 drops (500 tumbles, 1.6ft/0.5m) at room temperature"
+      }
     }
 ]
